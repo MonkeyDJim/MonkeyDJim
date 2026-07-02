@@ -11,7 +11,7 @@ J’aime explorer, tester et mettre en place des solutions innovantes autour de 
 
 ## 🤝 Engagement associatif
 
-[![Make in Lab - 1 an de service !](https://img.shields.io/badge/Make%20in%20Lab-1%20an%20de%20service%20!-blue?style=for-the-badge&logo=github)](https://makeinlab.fr)
+[![Make in Lab - 2 ans de service !](https://img.shields.io/badge/Make%20in%20Lab-1%20an%20de%20service%20!-blue?style=for-the-badge&logo=github)](https://makeinlab.fr)
 
 Je fais partie de l’association Make in Lab, dont la vocation est de rassembler les gens à travers l'informatique, en faisant découvrir cet univers aux jeunes comme aux moins jeunes, sans contrepartie.  
 On partage aussi des articles sympa sur [it.makeinlab.fr](https://it.makeinlab.fr) !
@@ -39,7 +39,7 @@ Découvrez l'univers du réseau et des homelabs — partage, projets, et ouvert 
 
 ## 🌐 Me retrouver
 
-- 🏠 [Portfolio : homejim.fr](https://homejim.fr)
+- 🏠 [Portfolio : portfolio.homejim.fr](https://portfolio.homejim.fr)
 - 🐦 [Twitter : @jimtjrsenadsl](https://twitter.com/jimtjrsenadsl)
 
 ---
